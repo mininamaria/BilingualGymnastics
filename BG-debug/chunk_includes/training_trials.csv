@@ -1,0 +1,3 @@
+pairID,prime_image,prime_sentence,target_image,target_sentence
+t1,example1.png,"PRIME 1.",example1.png,"In a hole in the ground there lived a ___."
+t2,example2.png,"PRIME 2.",example2.png,"A mouse took a stroll through the ___ dark wood."
